@@ -2,3 +2,6 @@ opencv-python
 numpy
 imutils
 pprint
+IPython
+sklearn
+pickle

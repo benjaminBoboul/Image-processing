@@ -8,8 +8,8 @@ In order to launch these script, you'll need to install the following dependenci
 
 ## Exercices
 
-* __Exercice 1__ : [ ]
-* __Exercice 2__ : [ ]
-* __Exercice 3__ : [ ]
-* __Exercice 4__ : [ ]
+* __Exercice 1__ : [x]
+* __Exercice 2__ : [x]
+* __Exercice 3__ : [x]
+* __Exercice 4__ : [x]
 * __Exercice 5__ : [ ]
